@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Apettigrew invoice related local docker APIs "
+  message: "Welcome to Apettigrew invoice related testing docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
