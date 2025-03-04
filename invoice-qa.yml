@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+invoice:
   message: "Welcome to Apettigrew invoice related QA docker APIs "
   contactDetails:
     name: "John Doe - Developer"
