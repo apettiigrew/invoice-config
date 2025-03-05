@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-invoice:
-  message: "Welcome to Apettigrew invoice related production docker APIs "
+invoices:
+  message: "Welcome to Apettigrew invoice related QA docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
