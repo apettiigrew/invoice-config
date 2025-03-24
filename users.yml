@@ -9,3 +9,10 @@ users:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
+
+keycloak:
+  server-url: "http://localhost:7080"
+  realm: "development"
+  client-id: "admin-cli"
+  user-name: "admin"
+  password: "1234"
