@@ -12,7 +12,7 @@ users:
 
 keycloak:
   server-url: "http://localhost:7080"
-  realm: "development"
+  realm: "master"
   client-id: "admin-cli"
   user-name: "admin"
   password: "1234"
