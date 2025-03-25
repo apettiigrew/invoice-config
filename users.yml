@@ -15,4 +15,4 @@ keycloak:
   realm: "master"
   clientId: "admin-cli"
   userName: "admin"
-  password: "1234"
+  password: "admin"
