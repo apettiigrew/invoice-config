@@ -11,8 +11,8 @@ users:
     - (555) 523-1345
 
 keycloak:
-  server-url: "http://localhost:7080"
+  serverUrl: "http://localhost:7080"
   realm: "master"
-  client-id: "admin-cli"
-  user-name: "admin"
+  clientId: "admin-cli"
+  userName: "admin"
   password: "1234"
