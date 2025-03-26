@@ -18,4 +18,4 @@ keycloak:
   password: "admin"
   authServerUrl: "http://localhost:8080/auth"
   appClientId: "invoice-ms"
-  appClientSecret: "{cipher}0ce41e4f47d289d7c5fea26849095ba70c460be4e049a39c39a5cfed2b17d13f86ff7b73017e7981df9ff7aeab90409879fe5adf0d98fe7dc0a04ebb6dcd0ddb"
+  appClientSecret: "{cipher}08c222e9c5c89710e7968371fb5647d3a72066ffb89f6d37d0969e9069528faa74f902c5d4c0e1dbe8bbb9c4fcaf3d209e3280fbbbc4da5b5d1f4c3db1791365"
