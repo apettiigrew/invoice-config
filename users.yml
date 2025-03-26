@@ -16,8 +16,6 @@ keycloak:
   clientId: "admin-cli"
   userName: "admin"
   password: "admin"
-  keycloak:
-  authServerUrl: http://localhost:8080/auth
-  realm: master
-  appClientId: invoice-ms
+  authServerUrl: "http://localhost:8080/auth"
+  appClientId: "invoice-ms"
   appClientSecret: "{cipher}0ce41e4f47d289d7c5fea26849095ba70c460be4e049a39c39a5cfed2b17d13f86ff7b73017e7981df9ff7aeab90409879fe5adf0d98fe7dc0a04ebb6dcd0ddb"
