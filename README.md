@@ -1,6 +1,7 @@
+### Invoice Config
 
-# Invoice Config
-This repository serves as configuration management for a distributed microservices environment. The microservices that this configuration repository interacts with can be found here: https://github.com/apettiigrew/invoice-microservices
+This repository manages configuration for a distributed microservices environment. The microservices that interact with this configuration repository can be found here: [invoice-microservices.](https://github.com/apettiigrew/invoice-microservices)
 
-Note: This configuraiton acts as eg on how to utilize github repository as a configuration. There might be data classified as senstive and not appropriate for production.
-To uilize this method in real production, this repository should not be publicly accessible and there are guides that can be followed if needs be: https://docs.spring.io/spring-cloud-config/docs/current/reference/html/#_environment_repository
+Note: This configuration serves as an example of how to use a GitHub repository for configuration management. It may contain sensitive data that is not suitable for production.
+
+To use this method in a real production environment, this repository should not be publicly accessible. You can follow the official guides for secure implementation: Spring Cloud Config Documentation.
