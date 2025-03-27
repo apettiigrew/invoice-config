@@ -13,5 +13,5 @@ com:
       apiKey: "{cipher}f26dd5fb76bd7ff8c5179295f6a372f7e40a9473372eedbb794a116db6bca371b8ae4500994b742b7be70019da9a1cfbaef19c1d44d662d8f6bc5d3232d3ce48a05a576d321c61f28e705e2bca74644b32a6b471977acd39922e90a1d1a61fb6"
       fromEmail: "{cipher}5de082de0abc0c6defc2a6096236dfe8f78f729afac369bc65995755a8608f2026715ac173305d69c6db426649dbb717"
       fromName: Andrew Pettigrew
-      hydrationAlertNotification:
+      dynamicTemplate:
         templateId: d-a822c9d21adb40b3a128e9b1facabf8a
