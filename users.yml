@@ -11,11 +11,11 @@ users:
     - (555) 523-1345
 
 keycloak:
-  serverUrl: "http://keycloak:8080"
+  serverUrl: "http://localhost:8080"
   realm: "master"
   clientId: "admin-cli"
   userName: "admin"
   password: "admin"
-  authServerUrl: "http://keycloak:8080/auth"
+  authServerUrl: "http://localhost:8080/auth"
   appClientId: "invoice-ms"
   appClientSecret: "JDApucV7lCDKRbBJyG9rQtWAyUnracks"
