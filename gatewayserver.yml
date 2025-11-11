@@ -1,6 +1,10 @@
 server:
   port: 8072
 
+spring:
+  config:
+    import: "optional:configserver:http://configserver:8071/"
+    
 eureka:
   instance:
     preferIpAddress: true
@@ -16,3 +20,4 @@ security:
       jwt:
         # Using issuer-uri allows Spring Security to automatically discover the JWK set URI
         issuer-uri: "http://keycloak:8080/realms/master"
+
