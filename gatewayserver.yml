@@ -16,10 +16,3 @@ eureka:
     serviceUrl:
       defaultZone: "http://eurekaserver:8070/eureka/"
 
-security:
-  oauth2:
-    resourceserver:
-      jwt:
-        # Using issuer-uri allows Spring Security to automatically discover the JWK set URI
-        issuer-uri: "http://keycloak:8080/realms/master"
-
