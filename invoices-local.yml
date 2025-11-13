@@ -8,12 +8,10 @@ spring:
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
   flyway:
-    locations: /db.migration
+    locations: /db/migration
     sqlMigrationSuffixes: .sql
     url: jdbc:mysql://localhost:3306/invoicedb
-    user: root
-    password: root
-    baseline-version: 0.0
+    baselineVersion: 0.0
 
 invoices:
   message: "Welcome to Invoice Microservice related github docker APIs "
