@@ -1,5 +1,21 @@
 build:
-  version: "3.0"
+  version: "1.0"
+
+spring:
+  datasource:
+    url: jdbc:mysql://invoicedb:3306/invoicedb
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  flyway:
+    enabled: true
+    baseline-on-migrate: true
+    locations: /db/migration
+    sqlMigrationSuffixes: .sql
+    url: jdbc:mysql://invoicedb:3306/invoicedb
+    user: root
+    password: root
+    baseline-version: 0.0
 
 invoices:
   message: "Welcome to Invoice Microservice related github docker APIs "
