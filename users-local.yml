@@ -1,0 +1,21 @@
+build:
+  version: "3.0"
+
+users:
+  message: "Welcome to Invoice Microservice User related github docker APIs "
+  contactDetails:
+    name: "Andrew Pettigrew"
+    email: "devdrew10@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
+
+keycloak:
+  serverUrl: "http://localhost:8080"
+  realm: "master"
+  clientId: "admin-cli"
+  userName: "admin"
+  password: "admin"
+  authServerUrl: "http://localhost:8080/auth"
+  appClientId: "invoice-ms"
+  appClientSecret: "BgHptbYgkPBecAvrGXrAFQYoomjpN1QT"
