@@ -11,5 +11,5 @@ com:
   notification:
     resend:
       apiKey: "{cipher}84274d1b23d541f91d2f69ea9366a5bf14a409689e128f8acac0d6e5e8d3640012216c1f4f98c10510968b9aca8502d65028ee8eb0c55f05ee22f940b7a2021d"
-      fromEmail: "{cipher}41c21c9109c6cadb459edfc0ff7a4e637074b8ca0f34df802031a25cfd002f86da258bff995ed6d512873a2c47c85471"
+      fromEmail: "{cipher}9041de7d579e03b5b2a200c29fec31397d78a0aa4f78c5d1f04579ab8f38b2c5f8b9403f6a605c3799c946f48fb80a9c89ccb3c50fed0d3288a7b69267267f06"
       fromName: Andrew Pettigrew
