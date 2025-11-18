@@ -10,7 +10,7 @@ notifications:
 com:
   notification:
     sendgrid:
-      apiKey: "{cipher}6a31c5f084d04bca43103df82a1838d032dc782e33e49b330f50cd952e94285f63b6bb58931fdaaa570682d6250f419d7731c2a84d757f5ac0d96070eb0a9d90fc990b795389bd58cf9ca3cceaaf63fa8c97b43834f627ace8b25cea3bac16f5"
+      apiKey: "{cipher}0c0e4d8def144c4a59141131681f357b6037e914d937d2983211085ab9da0697017149900575ab1db992d355789000be27c87c17f2ffe77c0a31c48d48d9b12733d223f7ab7ec068b0b4eb1039aafeb42ba5eea1ae81aee07e9b200f12c2406e"
       fromEmail: "{cipher}a140a8dbed42a23b4db286fb6f81eccc7e5cea361c86a6a7e221ff49f23b795d83cb3235680bcb018a2fdf9e2aacccc1"
       fromName: Andrew Pettigrew
       dynamicTemplate:
